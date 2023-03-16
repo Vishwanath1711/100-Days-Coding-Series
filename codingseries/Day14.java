@@ -16,8 +16,7 @@ public class Day14 {
         Scanner S = new Scanner(System.in);
         System.out.println("enter the number");
         int n = S.nextInt();
-        int rev=0;
-
+        int rev = 0;
         while(n>0){
             int rem = n%10;
             rev = rev*10 + rem;
