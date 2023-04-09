@@ -14,7 +14,6 @@ The frequency of p is 1
 The frequency of r is 2
 */
 import java.util.Scanner;
-
 public class Day37
 {
     public static void main(String[] args) {
